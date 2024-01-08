@@ -696,3 +696,90 @@ header{
 }
     
 }
+
+
+@media screen and (max-width: 320px){
+
+     /*adding the responsiveness*/
+   .btn{
+    font-weight: 600;
+    font-size: 23px;
+   }
+
+    
+    /*categories*/
+.categories h1{
+    font-size: 45px;
+}
+.categories__left p{
+    font-size: 28px;
+}
+
+.category__icon{
+
+    font-size: 20px;
+
+}
+.category h5{
+    font-size: 29px;
+    font-weight: 600;
+}
+
+.category p{
+    font-size: 24px;
+}
+
+/*courses*/
+
+    .courses h2{
+        font-size: 45px;
+    }
+    
+    .course__info h4{
+        font-size: 30px;
+    }
+    
+    
+    .course__info p{
+        font-size: 20px;
+    }
+    
+
+/*faqs*/
+
+.faqs h2{
+    font-size: 45px;
+}
+
+.faq h4{
+    font-size: 24px;
+}
+.faq p{
+    font-size: 22px;
+}
+
+
+
+    .testimonials__Container h2{
+        font-size: 46px;
+    }
+    
+    
+    .testimonial__info h5{
+        font-size: 28px;
+    }
+    .testimonial__info small{
+        font-size: 22px;
+    }
+    
+    .testimonial__body p{
+        font-size: 20px;
+     }
+    
+
+
+
+    .kcse h2{
+        font-size: 46px !important; 
+    }
+}
